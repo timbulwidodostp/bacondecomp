@@ -1,5 +1,23 @@
-d 'DEA': Data envelopment analysis
+d 'bacondecomp': Bacon-Goodman decomposition for differences-in-differences estimation with variation in treatment timing Use bacondecomp With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f b.ado
+f b.sthlp
+f ba.ado
+f ba.sthlp
+f bac.ado
+f bac.sthlp
+f baco.ado
+f baco.sthlp
+f bacon.ado
+f bacon.sthlp
+f bacond.sthlp
+f baconde.ado
+f baconde.sthlp
+f bacondec.ado
+f bacondec.sthlp
+f bacondeco.ado
+f bacondeco.sthlp
+f bacondecom.ado
+f bacondecom.sthlp
+f bacondecomp.ado
+f bacondecomp.sthlp
