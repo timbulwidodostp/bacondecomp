@@ -3,6 +3,8 @@ Bacon-Goodman decomposition for differences-in-differences estimation with varia
 
 Decomposition for differences-in-differences estimation with variation in treatment timing from Goodman-Bacon (2018) Use bacondecomp With STATA 18
 
+https://www.youtube.com/watch?v=NKOrpb48ssM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
